@@ -10,3 +10,4 @@ autocmd FileType html,htm,js,php set shiftwidth=2 | set sts=2 | set tabstop=2 | 
 set expandtab
 set nu
 set autochdir
+
